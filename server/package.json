@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "🔥🔥 WATCH HERE >> [Project Video](https://youtu.be/LH-S5v-D3hA)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pratishtah singh",
+  "license": "MIT"
+}
